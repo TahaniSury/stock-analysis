@@ -1,9 +1,9 @@
 # stock-analysis
 
-# Overview of Project
+## Overview of Project
 The purpose of the project is to edit and refactor the Stock Market Dataset with VBA code and determine whether refactoring the code successfully made the VBA script run faster. The goal is to make the code more efficient— less steps, using less memory, or improving the logic of the code to make it easier for users to read.
 
-# Summry 
+## Summry 
 
 . The code refactoring should be performed in small steps to improve the code.
 
